@@ -1,9 +1,9 @@
-Being a member of the Noisebridge council means taking responsibility and committing to help to maintain, improve, and govern Noisebridge. The council don't just come to Noisebridge to hack and learn, but actively work to improve what they see around them, help to deal with problems, and make this community better than it is today.
+ Being a member of the Noisebridge council means taking responsibility and committing to help to maintain, improve, and govern Noisebridge. The council don't just come to Noisebridge to hack and learn, but actively work to improve what they see around them, help to deal with problems, and make this community better than it is today.
 
 Appplication
 ============
 
-Noisbridge's council are the only folks in our community who are empowered to fully participate in Noisebridge's consensus process. This is a significant responsibility, and it is likewise an involved process to become a council-member.
+Noisbridge's council are the only folks in our community who are empowered to fully participate in Noisebridge's consensus process. This is a significant responsibility, and it is likewise an involved process to become a council-member. Only existing members are eligible to join the council.
 
 The applicant must fill out an application form and places it in the membership binder. Existing council-members may sponsor an applicant by signing their application form. At each [community meeting](../meetings.md) the names and sponsors of all current council applicants are read. If an applicant's name has been read at at least four meetings, and two current council-members sponsor them, they are eligible for approval. 
 
