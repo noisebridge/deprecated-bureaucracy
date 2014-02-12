@@ -1,0 +1,1 @@
+Noisebridge uses approval voting for board elections. In the event of a tie between board candidates, a Roshambo tournament shall be used to select who serves on the board.
