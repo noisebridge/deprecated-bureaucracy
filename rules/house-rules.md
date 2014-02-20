@@ -32,3 +32,11 @@ Food
 Noisebridge's kitchen is only for culinary projects and experimentation. It is not for preparing food generally to provide for day-to-day needs.
 
 Food should not be left out at Noisebridge. If someone brings food to Noisebridge to share with others, it is the responsibility of that person to ensure that it is disposed of properly, and that no food is left out.
+
+
+Out of bounds
+=============
+
+The basement, the roof, and the fire escape are out of bounds. Do not go to these places, and absolutely do not store items there. The stairwell and elevator are only for access to Noisebridge. Do not loiter in these locations.
+
+If you wish to stand outside Noisebridge, keep at least ten feet from the front gate. Do not obstruct access to Noisebridge or our neighbors to either side. If you smoke outside Noisebridge, ensure that you do not inconvenience our neighbors or those trying to access Noisebridge.
