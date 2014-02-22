@@ -1,49 +1,42 @@
-Being a member of the Noisebridge council is not like being a regular member. Lots of folks come to Noisebridge to hack and learn: you don't need to be a member of the council for that. At Noisebridge, the council is something more: it means taking responsibility and committing to help to maintain, improve, and govern Noisebridge. As a member of the Noisebridge council, you don't just come here to hack and learn, you actively work to improve what you see around you, help to deal with problems, and make this community better than it is today.
+ Being a member of the Noisebridge council means taking responsibility and committing to help to maintain, improve, and govern Noisebridge. The council don't just come to Noisebridge to hack and learn, but actively work to improve what they see around them, help to deal with problems, and make this community better than it is today.
 
 Appplication
 ============
 
-Noisbridge's council are the only folks in our community who are empowered to fully participate in Noisebridge's consensus process. This is a heady and awesome responsibility, and it is likewise an involved process to become a council-member. Here's how it goes
+Noisbridge's council are the only folks in our community who are empowered to fully participate in Noisebridge's consensus process. This is a significant responsibility, and it is likewise an involved process to become a council-member. Only existing members are eligible to join the council.
 
-1. Fill out top part of an application form. There should be blank forms in the membership binder, or you can print your own.
-2. Put your completed application form in the binder at the space.
-3. Persuade two current full Noisebridge council-members to sponsor your application by signing your application form.
-4. Every meeting, there is a standing agenda item to read all the applications in the binder. You do not have to be present when your application is read.
-5. Once your application has been read out at four meetings, and you have obtained two sponsors, you are up for approval.
-6. During that meeting you may request that Noisebridge consents to have you become a member of the council, but you may put this off until the next meeting (or the next &c.). If you are unable to attend meetings, another member may proxy your request.
-7. During the meeting at which you request that Noisebridge consents to have you become a member, those present may ask you (or your proxy) questions.
-8. After those present are finished asking questions, you are asked to leave the room, and your application is discussed without you present. The meeting may then choose to agree to have you become a member of Noisebridge. 
+The applicant must fill out an application form and places it in the membership binder. Existing council-members may sponsor an applicant by signing their application form. At each [community meeting](../meetings.md) the names and sponsors of all current council applicants are read. If an applicant's name has been read at at least four meetings, and two current council-members sponsor them, they are eligible for approval. 
 
-If you leave your paper council-membership application form in the binder for more than twelve weeks, it'll be be discarded. If you still wants to become a council-member, you'll have to start the application process over from scratch. 
+During the council-membership section of a community meeting, the an applicant who is eligible for approval may ask to join the council. Others present at the meeting have the opportunity to interview the applicant. The applicant is then asked to leave the room while their application is discussed. Neither the interview nor subsequent conversation are recorded in the meeting notes. An applicant may choose to send a proxy in their place for this process.
 
-Once Noisebridge has agreed to have you as a member you have two things to do:
+Following the discussion, council-members present at the meeting decide whether to approve the application. This decision is made my consensus, and recorded in the meeting notes.
 
-* Fill out your contact information and give the secretary your application form.
-* Make sure that your wiki user page is updated with the `[[Category:Council]]`.
+If a council application has been in the membership binder for twelve weeks, it is discarded at the next community meeting. That applicant would have to start the process from the beginning.
 
-At the very least, the secretary needs this information.
+
+Responsibilities
+================
+
+After a successful application, the new council-member must update their wiki user page to include the `[[Category:Council]]` tag, convey their completed application form to the secretary and provide the secretary with some contact information:
 
 * email address
 * wiki username
+* Gitub username (optional)
+* GPG key fingerprint (optional)
+* IRC nickname (optional)
 
-Other useful information includes the following.
+Once they have done these things, the new council-member is entitled to full participation in Noisebridge's consensus process.
 
-* IRC nickname
-* Github username
-* Twitter handle
-* GPG fingerprint
-
-Once you have done both these things, you are entitled to full participation in Noisebridge's consensus process.
-
-At any time, anyone can look in the binder and peruse the applications. If an existing council-member has any concerns with any of the applicants, they should take time during that month to try and resolve the problem. They may ask another member to be a proxy for them to either help resolve the problem (preferred) or to voice their objection at the approval meeting.
+All members of the council are responsible for ensuring that the secretary continues to have their up-to-date contact information. Their are responsible for following all the other requirements on participants in the Noisebridge community.
 
 
-Being a council-member
-======================
+Privileges
+==========
 
-As a member of Noisebridge you are our ambassadors and advocates to the world, maintainers of our physical and digital infrastructure, and probably pretty cool. Here are some things that you should do.
+The Noisebridge council are the only people entitled to full participation in Noisebridge's [consensus process](../consensus-process.md). The council also [vote](../elections.md) on appointments to Noisebridge's board.
 
-* **DO**: Contribute to Noisebridge. Help us pay rent with a regular donation, but help out in other ways too!
-* **DO**: Be excellent to everyone. Follow our community standards and anti-harassment policy, and teach others about them.
-* **DO**: Represent Noisebridge. Go out into the world, visit other hackerspaces, make awesome projects, and tell everyone how great Noisebridge is.
-* **DO**: Keep your contact info up to date. This also means ensuring that you wiki user page has the right categories. 
+
+Privacy
+=======
+
+The membership of the Noisebridge council is not secret, nor is the list of current applicants..
