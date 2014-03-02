@@ -10,8 +10,6 @@ Appplication
 7. During the meeting at which you request that Noisebridge consents to have you become a member, those present may ask you (or your proxy) questions.
 8. After those present are finished asking questions, you are asked to leave the room, and your application is discussed without you present. The meeting may then choose to agree to have you become a member of Noisebridge. 
 
-If you leave your paper council-membership application form in the binder for more than twelve weeks, it'll be be discarded. If you still wants to become a council-member, you'll have to start the application process over from scratch. 
-
 Once Noisebridge has agreed to have you as a member you have two things to do:
 
 * Fill out your contact information and give the secretary your application form.
