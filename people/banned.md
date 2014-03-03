@@ -13,4 +13,4 @@ The following people are unwelcome at Noisebridge. They are prohibited from ente
 * Harvey
 * Joseph Adam Moore
 * Lee Sonko
-* Robin (aka MadCap)
+* Robin Noel (aka MadCap)
