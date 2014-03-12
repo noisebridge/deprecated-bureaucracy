@@ -13,5 +13,8 @@ The following people are unwelcome at Noisebridge. They are prohibited from ente
 * Harvey
 * Joseph Adam Moore
 * Lee Sonko
+* Kyle
+* Kara
+* Johnny
 * Josh “N0_Hat”
 
