@@ -3,7 +3,7 @@ Requests to leave
 
 Any person at Noisebridge is empowered to instruct another to leave at any time. Such an instruction should only be given if the recipient's behavior is or has been unacceptable. The recipient should immediately gather their belongings and depart. Within 24 hours, the asker should email the Noisebridge discussion list explaining the situation and these events.
 
-Nobody is ever required to ask another to leave. Nobody should ever confront a someone else who they think poses a physical danger to their safety. If someone's behavior presents threatens the safety of others at Noisebridge, the only appropriate remedy is to contact the police.
+Nobody is ever required to ask another to leave and nobody should ever confront a someone else who they think poses a physical danger to their safety.
 
 Someone who has been instructed to leave in this way should not return for 24 hours. Failure to depart when instructed in this way is a serious offense.
 
@@ -37,6 +37,6 @@ Food should not be left out at Noisebridge. If someone brings food to Noisebridg
 Out of bounds
 =============
 
-The basement, the roof, and the fire escape are out of bounds. Do not go to these places, and absolutely do not store items there. The stairwell and elevator are only for access to Noisebridge. Do not loiter in these locations.
+The basement, the roof, and the fire escape are out of bounds. Do not go to these places except to use the fire excape in an emergency, and absolutely do not store items there. The stairwell and elevator are only for access to Noisebridge. Do not loiter in these locations.
 
 If you wish to stand outside Noisebridge, keep at least ten feet from the front gate. Do not obstruct access to Noisebridge or our neighbors to either side. If you smoke outside Noisebridge, ensure that you do not inconvenience our neighbors or those trying to access Noisebridge.
