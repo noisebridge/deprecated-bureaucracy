@@ -1,42 +1,62 @@
-Requests to leave
-=================
+<!-- Name : Fair Usage Policy -->
 
-Any person at Noisebridge is empowered to instruct another to leave at any time. Such an instruction should only be given if the recipient's behavior is or has been unacceptable. The recipient should immediately gather their belongings and depart. Within 24 hours, the asker should email the Noisebridge discussion list explaining the situation and these events.
-
-Nobody is ever required to ask another to leave and nobody should ever confront a someone else who they think poses a physical danger to their safety.
-
-Someone who has been instructed to leave in this way should not return for 24 hours. Failure to depart when instructed in this way is a serious offense.
-
+Noisebridge supports fair usage.
 
 Personal use
-============
+------------
+Noisebridge is a hackerspace, not anyone's home. It is not acceptable to live at Noisebridge.  
 
-Noisebridge is a hackerspace, not anyone's home. It is not acceptable to live at Noisebridge nor to use for Noisebridge necessary activities of daily living.
+The determination of what is over usage shall be made by the Community Workgroup based on the totality of circumstances.  In determining if an individual is over using the space the Community Workgroup may consider the individual's history, active projects and contributions to the space.  The Community Workgroup shall remain cognizant that the core purpose of Noisebridge is as a hackerspace, and is encouraged to craft solutions fitted to the individual.  For example the Community Workgroup might decide that:
 
+	an individual who was asleep at Noisebridge shall only use the space between 10 am and 10 pm  
+
+	an individual who has problematic kitchen usage, shall for a period not be permitted to use the kitchen or eat within Noisebridge.
 
 Sleeping
 --------
 
-Sleeping at Noisebridge is prohibited. If you are exhausted at Noisebridge, leave and go home to sleep.
+People shall not sleep at Noisebridge.   
 
+Users may email the CommunityWorkgroup@noisebridge.org about persons who are sleeping or appear to be sleeping at Noisebridge. 
+
+If an individual's sleep at Noisebridge impacts other users use and comfort, the individual may be asked to leave.
+
+Kitchen Usage and Food
+----------------------
+
+People who use the kitchen are responsible to clean.
+
+Food should not be left out at Noisebridge. If someone brings food to Noisebridge it is their responsibility to ensure that the space is cleaned, and that no food is left out.
+
+An individual may be asked to leave for improper kitchen usage and food matters at Noisebridge.   Alternatively, users may email the CommunityWorkgroup@noisebridge.org about kitchen usage and food matters.
 
 Storage
 -------
 
-Noisebridge is not for the general storage of personal possessions. The only items which should be stored at Noisebridge are projects which are in progress, and the tools, parts, &c. for those projects. The only acceptable place to store these items are the lockers or the hacker shelves.
+Noisebridge is not for the general storage of personal possessions. The only items which should be stored at Noisebridge are projects which are in progress, and the tools, parts, &c. for those projects. The proper storage for these items are the lockers or the hacker shelves.   
 
-
-Food
-----
-
-Noisebridge's kitchen is only for culinary projects and experimentation. It is not for preparing food generally to provide for day-to-day needs.
-
-Food should not be left out at Noisebridge. If someone brings food to Noisebridge to share with others, it is the responsibility of that person to ensure that it is disposed of properly, and that no food is left out.
-
+Users may email the CommunityWorkgroup@noisebridge.org about unacceptable storage.
 
 Out of bounds
-=============
+-------------
 
-The basement, the roof, and the fire escape are out of bounds. Do not go to these places except to use the fire excape in an emergency, and absolutely do not store items there. The stairwell and elevator are only for access to Noisebridge. Do not loiter in these locations.
+The basement, the roof, and the fire escape are out of bounds. Do not go to these places except to use the fire escape in an emergency, and absolutely do not store items there. The dark room is to be only used for film development. The stairwell and elevator are only for access to Noisebridge. Do not loiter in these locations.
+
+Using the out of bounds space can have serious consequences, therefore, users are warned that the Community Workgroup may consider permanent banning for even the first time out of bounds usage incident.
 
 If you wish to stand outside Noisebridge, keep at least ten feet from the front gate. Do not obstruct access to Noisebridge or our neighbors to either side. If you smoke outside Noisebridge, ensure that you do not inconvenience our neighbors or those trying to access Noisebridge.
+
+Requests to leave
+-----------------
+
+Any person at Noisebridge is empowered to instruct another to leave at any time. Such an instruction should only be given if the recipient's behavior is or has been unacceptable. The recipient shall immediately gather their belongings and depart. Within 24 hours, the asker should email secretary@noisebridge.org and communityworkgroup@noisebridge.org explaining the situation and these events.
+
+Prior to returning to the space the person asked to leave shall email the Noisebridge secretary at secretary@noisebridge.org and communityworkgroup@noisebridge.org explaining the situation and these events OR attend a Tuesday meeting OR attend a community working group meeting and explain the situation and these events. In every case someone who has been asked to leave shall not return for at least 24 hours. 
+
+Failure to depart when asked OR returning to the space prematurely is a serious offense that can lead to a permanent banning.
+
+Nobody is ever required to ask another to leave and nobody should ever confront a someone else who they think poses a physical danger to their safety.
+
+Fair Usage
+----------
+This policy shall  be known as the Noisebridge fair usage policy.
