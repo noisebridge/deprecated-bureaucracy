@@ -9,3 +9,5 @@ When you are working on a sex- or porn-related project at Noisebridge, or are ru
 People asked to stop any harassing behavior are expected to comply immediately.
 
 People violating these rules may be sanctioned or expelled from the space or the event at the discretion of any Noisebridge member.
+
+Comments related to sleeping and squatting at Noisebridge shall not be considered harrassment on the basis of housing status for the purpose of implementing this policy.
