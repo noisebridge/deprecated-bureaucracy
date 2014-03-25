@@ -16,5 +16,4 @@ The following people are unwelcome at Noisebridge. They are prohibited from ente
 * Kyle
 * Kara
 * Johnny
-* Josh “N0_Hat”
-
+* Joseph Adam Moore
