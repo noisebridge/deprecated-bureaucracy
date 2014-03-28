@@ -17,4 +17,6 @@ The following people are unwelcome at Noisebridge. They are prohibited from ente
 * Kara
 * Johnny
 * Josh “N0_Hat”
-
+* ioerorr
+* SuperQ
+* wiretapped
