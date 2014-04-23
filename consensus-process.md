@@ -11,13 +11,13 @@ At a subsequent community meeting, any items which have previously reached initi
 Purpose
 =======
 
-The purpose of this delay is to ensure that council-members who do not attend every community meeting have the opportunity to learn about a proposal through the [`Current Consensus Items` page](https://noisebridge.net/wiki/Current_Consensus_Items) page and either attend or find a proxy to attend a future meeting and discuss or object to the proposal.
+The purpose of this delay is to ensure that Members who do not attend every community meeting have the opportunity to learn about a proposal through the [`Current Consensus Items` page](https://noisebridge.net/wiki/Current_Consensus_Items) page and either attend or find a proxy to attend a future meeting and discuss or object to the proposal.
 
 
 Participation
 =============
 
-Only members of the Noisebridge council are entitled to full participation in consensus. If any council-member who is physically present at a community meeting objects to a proposal, that proposal does not represent the consensus of Noisebridge, and cannot reach initial or final consensus. Any council-member is free to object to a proposal in order to proxy the opinion of a council-member who is not present, or that of a member or guest.
+Only Members of Noisebridge are entitled to full participation in Consensus. If any Member who is physically present at a community meeting objects to a proposal, that proposal does not represent the consensus of Noisebridge, and cannot reach initial or final consensus. Any Member is free to object to a proposal in order to proxy the opinion of a Member who is not present, or that of an associate member or guest.
 
 
 Policies
