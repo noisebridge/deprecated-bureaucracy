@@ -12,7 +12,7 @@ Authorizations
 ==============
 
 * Up to $200 per year for fire extinguishers, smoke and CO detectors, and associate maintenance
-* Up to $200 per month for dump runs, provided that four people are involved and two council-members approve
+* Up to $200 per month for dump runs, provided that four people are involved and two Members approve
 * Up to $100 per month for payment-processor fees
 * Monthly rent of $3960 for 2169 Mission Street
 * Monthly utilities as needed
