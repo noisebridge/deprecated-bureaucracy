@@ -1,17 +1,28 @@
-Being an associate member of Noisebridge is a lot like being a member of a gym or a chess club. Associate members can come to Noisebridge to hack and learn whenever they want. Associate members can bring their friends, colleagues, and collaborators to Noisebridge to work on projects with them. 
+Privileges
+========
+
+* Members are entitled to be at Noisebridge whenever they want.
+* Members may host guests while they are at Noisebridge.
+* Members may sponsor other applicants for membership.
+
+
+Responsibilities
+=============
+
+* Members otherwise have the same responsibilities as any other visitor or guest.
+
 
 Application
-===========
+=========
 
-Becoming an associate member is relatively straightforward, and can be done entirely online.
+These are the steps to become a member of Noisebridge.
 
-First, you should create an account on the [Noisebridge wiki](https://www.noisebridge.net/index.php?title=Special:UserLogin&type=signup&returnto=Noisebridge), edit your user page to introduce yourself and add the `[[Category:Applicant]]` tag to it. You can use whatever name you like, and tell us as much or as little about you as you'd like. Folks still need to know you when they meet you at Noisebridge though, so if you use an opaque pseudonym, you might have to introduce yourself a lot in person. For examples of how folks like to introduce themselves, you could check out the wiki pages of some existing associate members.
+1. Make an account on the [Noisebridge wiki](https://noisebridge.net/index.php?title=Special:UserLogin&type=signup).
+2. Edit your wiki user page to add as much or as little description as you like.
+3. Optionally, add `[[Category:Applicants]]` to your user page.
 
-Once you have your wiki page, you need to get four people to sponsor you. They do this by logging in, editing your wiki user page and adding a little note that they're vouching for you. The people who can sponsor you are:
+Then, four sponsors add a note of support to your wiki user page. Any council member may sponsor you. Any member who has been a member since the most recent Tuesday meeting may also sponsor you. Someone who edits your user page to sponsor you must be logged in when making the edit.
 
-* any Member
-* any associate member who didn't become a Member since the last Tuesday meeting. 
+Once there are four notes of support on your wiki user page, add `[[Category:Members]]` to your user page. If you used `[[Category:Applicants]]`, remove that.
 
-Once four folks have added a note of support on your wiki user page, you can change your `[[Category:Applicant]]` tag to a `[[Category:Members]]` tag and you're done, congrats! You become an associate member as soon as you've added the category, which means that you can come to the space whenever you'd like, and bring folks with you. However, you can't sponsor other folks until a Tuesday meeting has passed since you became an associate member.
-
-Now would be a good time to make sure you've introduced yourself on IRC, at a Tuesday meeting, and on the discussion list; joined other mailing lists you'd like, ask for an account on some of Noisebridge's shared machines, sign GPG keys with folks, or ask someone to set you up with a door code. Happy hacking!
+As soon as you have added the category `[[Category:Members]]`, you are a Noisebridge member.
