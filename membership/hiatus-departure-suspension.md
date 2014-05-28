@@ -1,21 +1,21 @@
 Departure
 =========
 
-If a council-member wishes to leave the council, they have to inform the secretary. After leaving the council, they may rejoin by the normal procedure.
+If a Member wishes to leave the membership, they have to inform the secretary. After leaving the membership, they may rejoin by the normal procedure.
 
 
 Suspension
 ==========
 
-Noisebridge may suspend someone's membership. A council-member is not entitled to full participation in the consensus process around a proposal to suspend that person's council-membership. If a member has been suspended, they shall no longer be considered a member of Noisebridge for any purpose, including but not limited to, full participation in the consensus process. 
+Noisebridge may suspend someone's membership. A Member is not entitled to full participation in the consensus process around a proposal to suspend that person's membership. If a Member has been suspended, they shall no longer be considered a Member of Noisebridge for any purpose, including but not limited to, full participation in the consensus process. 
 
 
 Hiatus
 ======
 
-Noisebridge allows members to go on hiatus if they wish to temporarily suspend their membership. Hiatus may be used when a member will not be involved in Noisebridge for an extended period, such as if they are traveling.
+Noisebridge allows members to go on hiatus if they wish to temporarily suspend their membership. Hiatus may be used when a Member will not be involved in Noisebridge for an extended period, such as if they are traveling.
 
-Council-members on hiatus are not entitled to full participation in Noisebridge's consensus process.
+Members on hiatus are not entitled to full participation in Noisebridge's consensus process.
 
 Going on hiatus
 ---------------
@@ -37,5 +37,5 @@ While on hiatus (termination)
 Returning from hiatus
 ---------------------
 
-To return from hiatus, a member must remove the `[[Category:Hiatus]]`` tag from their wiki user page and notify the secretary that they have returned. Members' status returns as soon as these two tasks are complete. Council-members' full participation in the consensus process returns one calendar month after these two tasks are complete.
+To return from hiatus, a member must remove the `[[Category:Hiatus]]`` tag from their wiki user page and notify the secretary that they have returned. Members' status returns as soon as these two tasks are complete. Members' full participation in the consensus process returns one calendar month after these two tasks are complete.
 
