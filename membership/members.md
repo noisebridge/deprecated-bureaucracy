@@ -13,7 +13,6 @@ Appplication
 Once Noisebridge has agreed to have you as a Member you have two things to do:
 
 * Fill out your contact information and give the secretary your application form.
-* Make sure that your wiki user page is updated with the `[[Category:Member]]`.
 
 At the very least, the secretary needs this information.
 

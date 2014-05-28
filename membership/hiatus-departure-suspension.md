@@ -22,7 +22,6 @@ Going on hiatus
 
 If a member wishes to go on hiatus, they must do the following things:
 
-* Add the `[[Category:Hiatus]]` tag to their wiki user page
 * Notify the secretary that they are going on hiatus and specifying the date on which they intend to return
 
 If a member going on hiatus will not have regular internet acces or has specific communication needs during their hiatus period, it is their responsibility to arrange this with the secretary before they go on hiatus. 
@@ -37,5 +36,5 @@ While on hiatus (termination)
 Returning from hiatus
 ---------------------
 
-To return from hiatus, a member must remove the `[[Category:Hiatus]]`` tag from their wiki user page and notify the secretary that they have returned. Members' status returns as soon as these two tasks are complete. Members' full participation in the consensus process returns one calendar month after these two tasks are complete.
+To return from hiatus a member must notify the secretary that they have returned. Members' status returns as soon as these two tasks are complete. Members' full participation in the consensus process returns one calendar month after these two tasks are complete.
 
