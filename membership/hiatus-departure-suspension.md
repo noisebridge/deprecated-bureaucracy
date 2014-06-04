@@ -36,5 +36,4 @@ While on hiatus (termination)
 Returning from hiatus
 ---------------------
 
-To return from hiatus a member must notify the secretary that they have returned. Members' status returns as soon as these two tasks are complete. Members' full participation in the consensus process returns one calendar month after these two tasks are complete.
-
+To return from hiatus a member must notify the secretary that they have returned. Members' status returns as soon as this task is complete. Members' full participation in the consensus process returns one calendar month after this task is complete.
