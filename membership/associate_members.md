@@ -1,7 +1,7 @@
 Privileges
 ==========
 
-* Associate members are entitled to be at Noisebridge whenever they want.
+* Associate members may be at Noisebridge without sponsorship.
 * Associate members may host guests while they are at Noisebridge.
 * Associate members may sponsor other applicants for associate membership.
 
