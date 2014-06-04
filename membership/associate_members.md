@@ -15,7 +15,7 @@ Responsibilities
 Application
 ===========
 
-These are the steps to become a member of Noisebridge.
+These are the steps to become an associate member of Noisebridge.
 
 1. Make an account on the [Noisebridge wiki](https://noisebridge.net/index.php?title=Special:UserLogin&type=signup).
 2. Edit your wiki user page to add as much or as little description as you like.
