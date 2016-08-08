@@ -2,7 +2,6 @@ Officers
 ========
 
 * President: Snail
-* Secretary: Tom Lowenthal
 * Treasurer: Danny O'Brien
 
 
